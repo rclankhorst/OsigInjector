@@ -20,6 +20,9 @@ The application requires JarSigner from JDK, and that the bin/ folder is in the
   --help             Display this help screen.
 ```
 
+## A personal note
+If some things are not working as intended, or you have any suggestions how I could improve this project, please let me know. I'm only human, could've missed something. 😄 
+ 
 ## Dependencies
 ### External
 * APKtool, as `apktool.bat` in the working directory.
